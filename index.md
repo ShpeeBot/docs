@@ -20,7 +20,7 @@ ShpeeBot is a multipurpose Discord bot built for large communities.
 
 ### Quick start: Invite the public ShpeeBot to your server
 
-1. Just [click here]!(https://link.leodt.xyz/inviteshpee)
+1. Just [click here](https://link.leodt.xyz/inviteshpee)!  
 <small>You must have administrator permissions on the Discord server you want to add ShpeeBot to. Music commands are disabled on ShpeeBot Public to save resources.</small>
 
 ### Self-hosting: Heroku
