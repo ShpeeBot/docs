@@ -12,8 +12,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "ShpeeBot on GitHub":
+    - "//github.com/LeoDoesThings/ShpeeBot"
 
 # Makes Aux links open in a new tab.
 aux_links_new_tab: true
